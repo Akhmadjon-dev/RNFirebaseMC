@@ -1,1 +1,1 @@
-# RNFirebaseMC
+# Configs 
